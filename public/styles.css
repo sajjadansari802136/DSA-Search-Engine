@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+}
+
+h2.header__logo {
+    text-align: center;
+    color: rgb(8, 7, 14);
+    font-size: 50px;
+}
+
+div.search_page_one {
+    text-align: center;
+}
+
+div.header__search {
+    text-align: center;
+}
+
+.main_search_box {
+    height: 30px;
+    width: 150px;
+    border-radius: 10px;
+}
