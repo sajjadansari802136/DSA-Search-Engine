@@ -12,13 +12,5 @@ install nodemon on your device and run command, 'nodemon server_query.js' which 
 
 visit http://localhost:3000, and here, you can see the complete performance of this app
 
-# In case if the database has been deleted or some issues comes in connection to it, you can create your own mongodb atlas database and run these files in this project and follow the above commands to run this app on your browser
+In case if the database has been deleted or some issues comes in connection to it, you can create your own mongodb atlas database and run these files in this project and follow the above commands to run this app on your browser
 change the database uri in every file, with your new URI
-
-You need to head to SAVING TO MONGODB folder, and here you can see two files, save_data1.js and save_data2.js
-
-save_data1.js will save, tf_idf_values, all_keywords, idf_values to your mongodb server
-
-save_data2.js will save, all problems (2265) and magnitude of each document to your database
-
-Then run above commands to run this app on browser at http://localhost:3000
