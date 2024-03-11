@@ -8,3 +8,5 @@ Step2: Open this project folder on your IDE and run command 'npm install' in you
 
 Step3: Install nodemon on your device. Inside package.json ---> scripts, add "start": "node server_query.js". Now type "npm start", this will start the server. Visit http://localhost:3000 to see the website
 
+![Screenshot 2024-03-11 111626](https://github.com/sajjadansari802136/DSA-Search-Engine/assets/57280143/c9598806-9de0-450d-9712-e0850ccd1387)
+
