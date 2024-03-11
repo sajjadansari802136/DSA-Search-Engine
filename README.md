@@ -3,5 +3,8 @@ This search engine is developed to find the top matching Data Structure and Prog
 
 # Steps to run this project on a local server
 Step1: Download the zip file of this project from going to the code section of this repository or you can download the project using command line cloning with given url on the repository
+
 Step2: Open this project folder on your IDE and run command 'npm install' in your terminal this will install all the node dependencies.
+
 Step3: Install nodemon on your device. Inside package.json ---> scripts, add "start": "node server_query.js". Now type "npm start", this will start the server. Visit http://localhost:3000
+
